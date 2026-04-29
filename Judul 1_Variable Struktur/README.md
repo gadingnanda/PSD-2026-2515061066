@@ -6,7 +6,7 @@ Deskripsi : <br>
 
 Source code :
 <img width="1115" height="929" alt="Screenshot 2026-04-28 160308" src="https://github.com/user-attachments/assets/4b1ee4cb-ffb7-4d5c-947e-c0852cb1a672" />
-<img width="1113" height="916" alt="image" src="https://github.com/user-attachments/assets/7a5f4698-3e80-4cb6-ac66-63f54393aba1" />
+<img width="1276" height="932" alt="Screenshot 2026-04-29 125305" src="https://github.com/user-attachments/assets/982592c1-801d-4229-adb8-4960610290b3" />
 
 Penjelasan : <br>
 baris 1, Membuat list produk yang berisi daftar barang yang tersedia.<br>
