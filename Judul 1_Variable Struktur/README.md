@@ -80,3 +80,6 @@ Jika memilih 2, user bisa menambahkan barang ke keranjang.
 Jika memilih 3, user bisa menghapus barang dari keranjang.
 Jika memilih 4, program menampilkan isi keranjang.
 Jika memilih 5, program akan berhenti.
+
+Link video demonstrasi : <br>
+https://youtu.be/zahA07AOaro
