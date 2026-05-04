@@ -5,7 +5,7 @@ Program ini menggunakan Bubble Sort untuk mengolah data harga buku dengan cara m
 <br>
 <br>
 <img width="293" height="92" alt="Screenshot 2026-05-03 122945" src="https://github.com/user-attachments/assets/0f2889c7-35f0-4b99-ab04-ee808e188eeb" />
-Fungsi ini digunakan untuk menukar posisi dua elemen dalam sebuah list. Fungsi ini menerima tiga parameter yaitu arr sebagai list data, menggunakan i dan j sebagai indeks dari elemen yang ingin ditukar. Proses penukaran dilakukan dengan menggunakan variabel sementara yaitu temp untuk menyimpan salah satu nilai agar tidak hilang saat proses pertukaran berlangsung. Nilai pada indeks i dipindahkan ke indeks j, dan sebaliknya.<br>
+Fungsi ini digunakan untuk menukar posisi dua elemen dalam sebuah list. Fungsi ini menerima tiga parameter yaitu arr sebagai list data, i dan j sebagai indeks dari elemen yang ingin ditukar. Proses penukaran dilakukan dengan menggunakan variabel sementara yaitu temp untuk menyimpan salah satu nilai agar tidak hilang saat proses pertukaran berlangsung. Nilai pada indeks i dipindahkan ke indeks j, dan sebaliknya.<br>
 
 <br>
 <br>
