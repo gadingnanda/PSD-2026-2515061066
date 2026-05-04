@@ -21,4 +21,8 @@ Fungsi ini membuat program dimana pengguna diminta untuk memasukkan jumlah data 
 <br>
 Output :
 <img width="675" height="197" alt="Screenshot 2026-05-03 132838" src="https://github.com/user-attachments/assets/ad4cee3f-ecf3-4893-b9b0-e236e5faa9ec" />
-Output program ini menunjukkan proses pengolahan data harga buku yang dimasukkan oleh pengguna. Pada awalnya, pengguna diminta memasukkan jumlah buku sebanyak 5, kemudian memasukkan harga masing-masing buku yaitu 25000, 60000, 150000, 120000, dan 85000. Data tersebut disimpan dalam sebuah list sesuai urutan input yang diberikan. Kemudian, program menampilkan harga buku sebelum diurutkan, yaitu Rp25000 Rp60000 Rp150000 Rp120000 Rp85000. Setelah itu, program melakukan proses pengurutan menggunakan algoritma Bubble Sort, sehingga menghasilkan urutan data dari nilai terkecil ke terbesar. Hasil akhir yang ditampilkan adalah Rp25000 Rp60000 Rp85000 Rp120000 Rp150000. <br>
+Output program ini menunjukkan proses pengolahan data harga buku yang dimasukkan oleh pengguna. Pada awalnya, pengguna diminta memasukkan jumlah buku, kemudian memasukkan harga masing-masing buku. Data tersebut disimpan dalam sebuah list sesuai urutan input yang diberikan. Kemudian, program menampilkan harga buku sebelum diurutkan. Setelah itu, program melakukan proses pengurutan menggunakan algoritma Bubble Sort, sehingga menghasilkan urutan data dari nilai terkecil ke terbesar. Sehingga hasil akhir yang ditampilkan adalah Rp25000 Rp60000 Rp85000 Rp120000 Rp150000. <br>
+
+<br>
+Link video : <br>
+https://youtu.be/JX264Q_q2pw
