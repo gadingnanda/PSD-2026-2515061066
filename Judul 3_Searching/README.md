@@ -34,3 +34,7 @@ Output program ini menunjukkan bahwa program berhasil menampilkan daftar nama ya
 Setelah itu, pengguna memasukkan nama Daffa pada bagian input pencarian. 
 Program kemudian melakukan proses pencarian menggunakan fungsi sequential_search() dan menemukan bahwa nama tersebut ada di dalam data. 
 Karena nama ditemukan, program menampilkan pesan bahwa nama Daffa berhasil ditemukan beserta nomor telepon yang sesuai, yaitu 082345678901.<br>
+
+<br>
+Link video : <br>
+https://youtu.be/5QRum6puUXk
