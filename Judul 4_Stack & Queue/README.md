@@ -69,6 +69,7 @@ Karena Arif berada di belakang Agus, program menampilkan bahwa jumlah pelanggan 
 Setelah itu, pengguna memilih menu 4 untuk menampilkan seluruh isi antrean, sehingga program menampilkan urutan antrean yaitu “Agus Arif”. Terakhir, pengguna memilih menu 3 untuk melihat pelanggan terdepan, dan program menampilkan bahwa elemen atau pelanggan paling depan dalam antrean adalah Agus.<br>
 <br>
 <br>
-
+Link video : <br>
+https://youtu.be/vcnkNYGgG8s
 
 
