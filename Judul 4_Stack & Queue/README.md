@@ -58,5 +58,17 @@ Jika pengguna memilih 5, program akan berhenti dan menampilkan pesan “Program 
 <img width="282" height="66" alt="Screenshot 2026-05-15 150126" src="https://github.com/user-attachments/assets/5a050eb8-c95e-48a8-8533-79cf18115bac" /><br>
 Pada kode if __name__ == "__main__": digunakan untuk memastikan bahwa fungsi main() hanya dijalankan ketika file Python tersebut dieksekusi secara langsung, bukan saat file digunakan atau diimpor ke program lain sebagai module. 
 Jika kondisi tersebut bernilai benar, maka program akan memanggil fungsi main() sehingga seluruh sistem antrian dapat dijalankan.<br>
+<br>
+<br>
+
+<img width="776" height="876" alt="Screenshot 2026-05-16 174423" src="https://github.com/user-attachments/assets/38c7448f-293f-4550-bbb9-631b1876500d" /><br>
+Output program ini pada awalnya akan menampilkan menu utama yang berisi beberapa pilihan, seperti menambahkan antrean, melayani pelanggan, melihat pelanggan terdepan, menampilkan antrean, dan keluar dari program. 
+Pengguna pertama memilih menu 1 untuk menambahkan pelanggan bernama Agus ke dalam antrean. Program kemudian menampilkan bahwa Agus berhasil ditambahkan dengan posisi antrean pertama sehingga estimasi waktu tunggunya 0 menit.<br>
+Berikutnya ketika pengguna kembali memilih menu 1 dan menambahkan pelanggan bernama Arif. 
+Karena Arif berada di belakang Agus, program menampilkan bahwa jumlah pelanggan yang sedang dilayani adalah 1 dan estimasi waktu tunggunya 5 menit. 
+Setelah itu, pengguna memilih menu 4 untuk menampilkan seluruh isi antrean, sehingga program menampilkan urutan antrean yaitu “Agus Arif”. Terakhir, pengguna memilih menu 3 untuk melihat pelanggan terdepan, dan program menampilkan bahwa elemen atau pelanggan paling depan dalam antrean adalah Agus.<br>
+<br>
+<br>
+
 
 
