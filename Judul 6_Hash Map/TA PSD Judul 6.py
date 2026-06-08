@@ -125,6 +125,7 @@ def main():
             print()
         elif pilih == 5:
             print("Program selesai.")
+            break
         else:
             print("Pilihan tidak valid!")
 
