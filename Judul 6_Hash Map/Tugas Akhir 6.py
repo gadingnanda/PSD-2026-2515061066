@@ -12,7 +12,7 @@ class Entry:
 
 
 class HashMapOpenAddressing:
-    def __init__(self, size=10):
+    def __init__(self, size=15):
         self.SIZE = size
         self.table = [Entry() for _ in range(self.SIZE)]
 
