@@ -41,5 +41,25 @@ Fungsi main(), merupakan pusat dari program yang mengatur interaksi dengan pengg
 Di dalam fungsi ini terdapat perulangan yang terus berjalan hingga pengguna memilih keluar dari program. 
 Pengguna dapat memilih berbagai operasi seperti menambah data, mencari data, menghapus data, atau menampilkan isi hash table. 
 Selain itu, fungsi ini juga menangani kesalahan input menggunakan try-except sehingga program tidak langsung berhenti jika pengguna memasukkan data yang tidak valid.<br>
+<br>
+<br>
+<img width="455" height="718" alt="Screenshot 2026-06-08 155616" src="https://github.com/user-attachments/assets/b4bd32fd-11ed-4d6a-892f-755c5cb5dd94" /><br>
+<img width="500" height="814" alt="Screenshot 2026-06-08 155731" src="https://github.com/user-attachments/assets/ced3bea8-a84d-48c0-bde3-b22effef29fc" /><br>
+Pada output awal program, pengguna memilih menu Insert (1) dan memasukkan key = 12 serta value = 2550. 
+Program kemudian berhasil menyimpan data tersebut ke dalam hash table dan menampilkan pesan "Data (12, 2550) berhasil dimasukkan". 
+Setelah itu, pengguna kembali memilih menu Insert (1) untuk menambahkan data kedua dengan key = 1 dan value = anggur. 
+Data tersebut juga berhasil disimpan dan ditampilkan pesan konfirmasi bahwa data berhasil dimasukkan.<br>
+Selanjutnya, pengguna memilih menu Search (2) dan memasukkan key = 12. 
+Program menjalankan fungsi pencarian dengan menghitung indeks hash dari key tersebut dan memeriksa slot yang sesuai pada hash table. 
+Karena data ditemukan, program menampilkan pesan "Key 12 ditemukan, value = 2550", yang menunjukkan bahwa pasangan key-value tersebut berhasil ditemukan.
+Kemudian pengguna memilih menu Display (4) untuk melihat seluruh isi hash table. 
+Hasil yang ditampilkan menunjukkan bahwa sebagian besar slot masih berstatus EMPTY, yang berarti belum berisi data. Pada indeks 1 terdapat data (1, anggur), sedangkan pada indeks 12 terdapat data (12, 2550).
+Terakhir, ketika pengguna memilih menu Keluar (5) sehingga program menampilkan pesan "Program selesai." dan proses eksekusi dihentikan.<br>
+<br>
+<br>
+<br>
+Link video : <br>
+
+
 
 
