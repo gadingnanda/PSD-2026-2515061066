@@ -77,7 +77,7 @@ class HashMapOpenAddressing:
 def main():
     hashmap = HashMapOpenAddressing()
     pilih = 0
-    while pilih != 10:
+    while pilih != 5:
         print("\n=== Menu ===")
         print("1. Insert")
         print("2. Search")
